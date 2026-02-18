@@ -1,2 +1,2 @@
-# Beginner-Python-Projects
-My beginner python projects.
+# Python Projects
+My Python projects, don't judge
